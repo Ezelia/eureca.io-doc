@@ -1,0 +1,3 @@
+[submodule "doc-source/eureca.io"]
+	path = doc-source/eureca.io
+	url = https://github.com/Ezelia/eureca.io
